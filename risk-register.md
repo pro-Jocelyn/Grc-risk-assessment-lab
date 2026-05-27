@@ -1,4 +1,3 @@
-risk-register.md
 # Risk Register
 
 | Risk ID | Asset | Risk Description | Threat | Vulnerability | Impact | Likelihood | Risk Score | Risk Level | Recommended Control |

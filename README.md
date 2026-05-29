@@ -4,7 +4,7 @@ A Governance, Risk, and Compliance (GRC) project demonstrating risk assessment, 
 
 ## Project Overview
 
-This project simulates a real-world GRC risk assessment for a small dental clinic that stores electronic Protected Health Information (ePHI).
+This project simulates a real world GRC risk assessment for a small dental clinic that stores electronic Protected Health Information (ePHI).
 
 The objective was to identify cybersecurity and compliance risks, evaluate their potential impact, and recommend controls aligned with HIPAA and NIST security frameworks.
 
@@ -36,7 +36,7 @@ The assessment focused on identifying risks that could impact the confidentialit
 ## Project Artifacts
 
 ### Executive Summary
-Provides a high-level overview of the assessment, key findings, business risks, and recommended remediation activities.
+Provides a high level overview of the assessment, key findings, business risks, and recommended remediation activities.
 
 ### Risk Register
 Documents identified risks, likelihood ratings, impact ratings, overall risk scores, and recommended mitigation strategies.
@@ -56,7 +56,7 @@ Maps identified risks to HIPAA Security Rule safeguards and NIST security contro
 ## Recommendations
 
 - Implement Multi-Factor Authentication (MFA)
-- Enforce Role-Based Access Control (RBAC)
+- Enforce Role Based Access Control (RBAC)
 - Encrypt company devices
 - Conduct security awareness training
 - Perform routine backup testing

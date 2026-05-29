@@ -1,6 +1,6 @@
 # GRC Risk Assessment Lab
 
-A Governance, Risk, and Compliance (GRC) project demonstrating risk assessment, risk scoring, HIPAA compliance considerations, and NIST control mapping for a fictional dental clinic.
+A Governance, Risk, and Compliance project demonstrating risk assessment, risk scoring, HIPAA compliance considerations, and NIST control mapping for a fictional dental clinic.
 
 ## Project Overview
 

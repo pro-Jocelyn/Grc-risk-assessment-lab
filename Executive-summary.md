@@ -1,4 +1,4 @@
-# 01-Executive Summary
+# Executive Summary
 
 ## Project Title
 GRC Risk Assessment Lab: HIPAA & NIST Control Mapping

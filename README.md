@@ -33,7 +33,7 @@ The assessment focused on identifying risks that could impact the confidentialit
 - Executive Summary Writing
 - Executive Reporting
 
-## Project Artifacts
+## Project Documents
 
 ### Executive Summary
 Provides a high level overview of the assessment, key findings, business risks, and recommended remediation activities.
